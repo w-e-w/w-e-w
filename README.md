@@ -1,1 +1,1 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=w-e-w&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&bg_color=30,5ad2fa,ff4de3\&title_color=fff\&text_color=fff)
+![Stats](https://github-readme-stats.vercel.app/api?username=w-e-w&&include_all_commits=true&bg_color=30,5ad2fa,ff4de3\&title_color=fff\&text_color=fff)
